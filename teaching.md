@@ -23,14 +23,14 @@ Renaissance, Reformation, Revolution? Introduction to Early Modern Europe
 
 ## Teaching & Digital Humanities Student Support Experience
 
-# Guest lectures
+### Guest lectures
 
 “Network Analysis: A Digital Humanities Approach to _Mansfield Park_ and _Ivanhoe_” for English 3776: Jane Austen and Walter Scott History and Manners in the Romantic Novel, Yale University, New Haven, CT, April 2025
 
 “The Medieval Mystical Tradition,” for History 280: The Catholic Intellectual Tradition, Yale University,
 New Haven, CT, October 2022
 
-# Positions
+### Positions
 
 Digital Humanities Specialist Consultant, DHLab, Yale University Library, 2024—present, (Teaching Fellow-20 hour/week Equivalent, Spring 2025)
 - Provide project management and technical expertise in one-on-one consultations with undergraduate and graduate students, provide workshops in Yale courses, collaborate on DH projects, train in new DH methodologies.
