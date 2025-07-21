@@ -29,4 +29,14 @@ Guest lectures:
 “The Medieval Mystical Tradition,” for History 280: The Catholic Intellectual Tradition, Yale University,
 New Haven, CT, October 2022
 
+Positions:
+Digital Humanities Specialist Consultant, DHLab, Yale University Library, 2024—present, (Teaching Fellow-20 hour/week Equivalent, Spring 2025)
+- Provide project management and technical expertise in one-on-one consultations with undergraduate and graduate students, provide workshops in Yale courses, collaborate on DH projects, train in new DH methodologies.
+
+Teaching Fellow, History 246/Environmental Studies 189: The History of Food, History Department, Yale University, Spring 2023
+- Marked student work and taught 2 mandatory weekly seminar-style discussion sections.
+
+Teaching Fellow, History 280/Religious Studies 160: The Catholic Intellectual Tradition, History Department, Yale University, Fall 2022
+- Marked student work, taught 2 mandatory weekly seminar-style discussion sections, and presented a
+guest lecture on medieval mysticism.
 
