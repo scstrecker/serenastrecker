@@ -4,42 +4,6 @@ title: About
 permalink: /about/
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+How can we persuade each other to live better lives? As we struggle with our own age of ideological polarization in a fraught media ecosystem, my work examines a historical period of transformation in both religious ideas and the media through which they circulated. In early modern Europe, the addition of the movable type printing press to a media ecosystem already suffused with overlapping webs of information exchange from handwritten texts to sermons, art, plays, and pub talk amplified debates about belief and behavior and brought them to an ever-wider audience. My work attends to issues of attention, persuasion, and mobilization that remain at the center of discussions about our social media-driven media ecosystem and its social and political consequences.
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
-
-## Themes
-This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
-
-<!-- | Config setting | Thumbnail |
-| --- | --- |
-| `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
-
-
-## Installation
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-athena"
-```
-
-And add this line to your Jekyll site `config.yml`:
-
-```yaml
-theme: jekyll-athena
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-athena
+I am a historian and digital humanist of religion, gender, and media in early modern Europe and a Ph.D. candidate in the History Department at Yale University. I am completing my dissertation under the joint supervision of Bruce Gordon, Carlos Eire, Paul Freedman, and Julia Burkhardt (LMU Munich). I will defend my dissertation in February 2026.
