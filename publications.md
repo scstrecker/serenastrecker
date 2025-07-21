@@ -11,7 +11,7 @@ permalink: /publications/
 - “Confessional Cross-Pollination: Basel Humanists as Suppliers of Lutheran and Catholic Exempla,” open access in Religions 2024, 15(10), 1247; [doi.org/10.3390/rel15101247](https:doi.org/10.3390/rel15101247).
 
 ## Peer-Reviewed Articles (under submission)
-- “‘The Man Remained a Sow’: Violence in Early Modern Marriage Exempla,” under consideration at a history journal.
+- “‘The Man Remained a Sow’: Violence in Early Modern Marriage _Exempla_,” under consideration at a history journal.
 
 ## Digital Publications
 - Turicum: The Writings of Huldrych Zwingli, digital editor, built a website to make selected English translations of Swiss Reformer Huldrych Zwingli accessible for undergraduate teaching in collaboration with Bruce Gordon, 2025, [turicumzwingli.github.io/turicum](https://turicumzwingli.github.io/turicum)
