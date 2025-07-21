@@ -6,9 +6,9 @@ permalink: /publications/
 
 ## Peer-Reviewed Articles (published)
 
-- “Unlocking the Digitized Archive of Early Modern Print: The Automatic Transcription of Early Modern Printed Books,” first author, co-written with Kimberly Lifton, in the Sixteenth Century Journal, Summer 2025, Vol. 56, n. 2; [doi.org/10.1086/735052](https:doi.org/10.1086/735052).
+- “Unlocking the Digitized Archive of Early Modern Print: The Automatic Transcription of Early Modern Printed Books,” first author, co-written with Kimberly Lifton, in the _Sixteenth Century Journal_, Summer 2025, Vol. 56, n. 2; [doi.org/10.1086/735052](https:doi.org/10.1086/735052).
 
-- “Confessional Cross-Pollination: Basel Humanists as Suppliers of Lutheran and Catholic _Exempla_,” open access in Religions 2024, 15(10), 1247; [doi.org/10.3390/rel15101247](https:doi.org/10.3390/rel15101247).
+- “Confessional Cross-Pollination: Basel Humanists as Suppliers of Lutheran and Catholic _Exempla_,” open access in _Religions_ 2024, 15(10), 1247; [doi.org/10.3390/rel15101247](https:doi.org/10.3390/rel15101247).
 
 ## Peer-Reviewed Articles (under submission)
 - “‘The Man Remained a Sow’: Violence in Early Modern Marriage _Exempla_,” under consideration at a history journal.
