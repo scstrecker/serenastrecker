@@ -14,10 +14,10 @@ permalink: /publications/
 - “‘The Man Remained a Sow’: Violence in Early Modern Marriage Exempla,” under consideration at a history journal.
 
 ## Digital Publications
-- Turicum: The Writings of Huldrych Zwingli, digital editor, built a website to make selected English translations of Swiss Reformer Huldrych Zwingli accessible for undergraduate teaching in collaboration with Bruce Gordon, 2025, [turicumzwingli.github.io/turicum](turicumzwingli.github.io/turicum)
+- Turicum: The Writings of Huldrych Zwingli, digital editor, built a website to make selected English translations of Swiss Reformer Huldrych Zwingli accessible for undergraduate teaching in collaboration with Bruce Gordon, 2025, [turicumzwingli.github.io/turicum](https://turicumzwingli.github.io/turicum)
 
-- ThEMA: Thesaurus Exemplorum Medii Aevii, indexing Valentin Leucht’s Viridarium Regium (1614) for leading exempla database, in progress (not complete), [thema.huma-num.fr/collections/TC0179](thema.huma-num.fr/collections/TC0179)
+- ThEMA: Thesaurus Exemplorum Medii Aevii, indexing Valentin Leucht’s Viridarium Regium (1614) for leading exempla database, in progress (not complete), [thema.huma-num.fr/collections/TC0179](https://thema.huma-num.fr/collections/TC0179)
   
-- Uprooted: The New Haven Time Capsule Project, web design and data collection for collaborative project, 2022, [uprootedtimecapsule.github.io](uprootedtimecapsule.github.io)
+- Uprooted: The New Haven Time Capsule Project, web design and data collection for collaborative project, 2022, [uprootedtimecapsule.github.io](https://uprootedtimecapsule.github.io)
   
-- Reforming Religious Media, web design, digital resource management, and writing for Omeka exhibit in partnership with the University of Chicago Special Collections Library, 2019, [rrm.omeka.net/exhibits/show/-exhibits/-show7](rrm.omeka.net/exhibits/show/-exhibits/-show7) and [rrm.omeka.net/exhibits/show/-exhibits/-show1](rrm.omeka.net/exhibits/show/-exhibits/-show1)
+- Reforming Religious Media, web design, digital resource management, and writing for Omeka exhibit in partnership with the University of Chicago Special Collections Library, 2019, [rrm.omeka.net/exhibits/show/-exhibits/-show7](https://rrm.omeka.net/exhibits/show/-exhibits/-show7) and [rrm.omeka.net/exhibits/show/-exhibits/-show1](https://rrm.omeka.net/exhibits/show/-exhibits/-show1)
