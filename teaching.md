@@ -42,3 +42,21 @@ Teaching Fellow, History 280/Religious Studies 160: The Catholic Intellectual Tr
 - Marked student work, taught 2 mandatory weekly seminar-style discussion sections, and presented a
 guest lecture on medieval mysticism.
 
+## Selected Student Feedback
+
+> Serena is an absolutely amazing TF! She made coming to discussion sections so engaging and fun!
+>
+> Serena was a wonderful TF! She clearly was very dedicated to her role in the course. She was prepared for all of the sections, guided the
+discussion with thoughtful questions, and was always willing and available to help outside of class when needed.
+>
+> Serena was incredibly available to help me in and outside of section. She framed questions to truly start meaningful discussions as well.
+>
+> Loved Serena as a TA! She's super nice and helpful with giving advice and feedback. Section was really interesting and I think we had good
+discussions about the course material.
+>
+> She was fantastic! One of the kindest and most communicative TAs I've had. She had great review sessions and guided really interesting
+discussions in section.
+>
+> I loved Serena. She was kind, very prepared, knowledgable, and fun to be in section with. She's also very approachable and chill! Her review
+sessions were very well structured and felt like a fantastic class themselves! She's one of the best TAs I've had.
+
