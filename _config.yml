@@ -16,9 +16,9 @@
 title: Serena Strecker
 description: Historian and Digital Humanist
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
-url: "http://broccolini.net" # the base hostname & protocol for your site
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+url: "https://scstrecker.github.io/" # the base hostname & protocol for your site
+github_repo: serenastrecker/
+github_username: scstrecker
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
