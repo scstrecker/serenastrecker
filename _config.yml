@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Serena Strecker
-description: Historian and Digital Humanist
+description: Historian and Digital Humanist, Ph.D. Candidate, Yale University
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://scstrecker.github.io/" # the base hostname & protocol for your site
 github_repo: serenastrecker/
