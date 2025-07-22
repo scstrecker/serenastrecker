@@ -13,3 +13,5 @@ My work examines early modern religious history through new digital methods. My 
 My work has appeared in the [_Sixteenth Century Journal_](https://doi.org/10.1086/735052) and open access in [_Religions_](https://doi.org/10.3390/rel15101247). My first-authored article “Unlocking the Digitized Archive of Early Modern Print: The Automatic Transcription of Early Modern Printed Books” published in the _Sixteenth Century Journal_ has been featured in a [press release](https://www-journals-uchicago-edu.yale.idm.oclc.org/journals/scj/pr/250716) by UChicago Press Journals, the only _SCJ_ article featured in a UCP press release since its acquisition of the journal in 2023.
 
 My second project _Punishments of the Land_ will trace early modern religious and intellectual responses to environmental catastrophe. This project will examine how early modern thinkers interpreted extreme heat and cold, fire, flood, famine, and wildlife depredation alongside sky battles and monstrous births as indications of widespread human moral failing and the imminent end of the world.
+
+Contact: <serena.strecker@yale.edu>
