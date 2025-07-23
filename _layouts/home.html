@@ -3,54 +3,79 @@
 
   {% include head.html %}
 
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      .intro-flex {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+
+      @media (max-width: 768px) {
+        .intro-flex {
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+        }
+      }
+
+      .profile-img {
+        width: 100%;
+        max-width: 200px;
+        height: auto;
+        object-fit: contain;
+        border-radius: 6px;
+        display: block;
+      }
+    </style>
+  </head>
+
   <body>
-
     <div>
-
       <header class="clearfix">
-
         <div class="right absolute-lg right-0 top-0">
           <ul class="mt-2 mr-2 mr-lg-3">
             {% for my_page in site.pages %}
               {% if my_page.title %}
-              <li class="inline-block block-lg text-right ml-1 ml-lg-0">
-                <a class="italic no-underline h4 font-smoothing" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-              </li>
+                <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+                  <a class="italic no-underline h4 font-smoothing" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                </li>
               {% endif %}
             {% endfor %}
           </ul>
         </div>
-<main class="main-container">
-    <div class="intro-section">
-      <div class="profile-image">
-        <div class="container mx-auto px-2 mt-2 mb-2 clearfix header-text">
-        <div style="display: flex; align-items: center; gap: 1rem;">
-         <a href="https://lh3.googleusercontent.com/pw/AP1GczMKxyBz8oYHrHVSThsiGpArtdNn_gCmI-NZvfKuGmJrncbU95BArWq249X_QbVyBoDTDrudeHYKCAR3fnJ-tKYNJoZ74_zwgQGyqyBSnKjqKeCUz9A=w2400" style="text-decoration: none; border: none;"> <img 
-  src=" https://lh3.googleusercontent.com/pw/AP1GczMKxyBz8oYHrHVSThsiGpArtdNn_gCmI-NZvfKuGmJrncbU95BArWq249X_QbVyBoDTDrudeHYKCAR3fnJ-tKYNJoZ74_zwgQGyqyBSnKjqKeCUz9A=w2400" 
-  alt="Profile image"
-  style="width: 200px; height: auto; object-fit: contain; border-radius: 6px; display: block;" />
- </a>
-            <div class="container mx-auto px-2 mt-4 mb-2 clearfix header-text">
-          <h1 class="h0 inline-block py-1 mt-2 header-title">{{ site.title }}</h1>
-          <div class="clearfix mb-4 py-1">
-            <p class="h4 lh-condensed font-smoothing">{{ site.description }}</p>
-            <div class="col-1 sm-width-full border-top-thick">
+
+        <main class="main-container">
+          <div class="intro-section container mx-auto px-2 mt-2 mb-2 clearfix header-text">
+            <div class="intro-flex">
+              <a href="https://lh3.googleusercontent.com/pw/AP1GczMKxyBz8oYHrHVSThsiGpArtdNn_gCmI-NZvfKuGmJrncbU95BArWq249X_QbVyBoDTDrudeHYKCAR3fnJ-tKYNJoZ74_zwgQGyqyBSnKjqKeCUz9A=w2400" style="text-decoration: none; border: none;">
+                <img 
+                  src="https://lh3.googleusercontent.com/pw/AP1GczMKxyBz8oYHrHVSThsiGpArtdNn_gCmI-NZvfKuGmJrncbU95BArWq249X_QbVyBoDTDrudeHYKCAR3fnJ-tKYNJoZ74_zwgQGyqyBSnKjqKeCUz9A=w2400" 
+                  alt="Profile image"
+                  class="profile-img"
+                />
+              </a>
+
+              <div class="header-text">
+                <h1 class="h0 inline-block py-1 mt-2 header-title">{{ site.title }}</h1>
+                <p class="h4 lh-condensed font-smoothing">{{ site.description }}</p>
+                <div class="col-1 sm-width-full border-top-thick"></div>
+              </div>
             </div>
           </div>
+        </main>
 
+        <div class="container mx-auto px-2 py-2">
+          {% for post in site.posts %}
+            {% include post_block.html %}
+          {% endfor %}
         </div>
       </header>
-      <div class="container mx-auto px-2 py-2">
-        {% for post in site.posts %}
-          {% include post_block.html %}
-        {% endfor %}
-      </div>
 
+      {% include footer.html %}
     </div>
-</main>
-
-    {% include footer.html %}
-
   </body>
 
 </html>
