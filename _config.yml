@@ -16,7 +16,7 @@
 title: Serena Strecker
 description: Historian and Digital Humanist, Ph.D. Candidate, Yale University
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
-url: "www.serenastrecker.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 github_repo: serenastrecker/
 github_username: scstrecker
 
