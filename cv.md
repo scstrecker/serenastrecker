@@ -5,13 +5,13 @@ permalink: /cv/
 ---
 
 <iframe 
-  src="https://drive.google.com/file/d/1lZjfrElQqAdxpebXRayJbL5vWZirkFOZ/view" 
+  src="https://drive.google.com/file/d/1lZjfrElQqAdxpebXRayJbL5vWZirkFOZ/preview" 
   width="100%" 
   height="800px" 
   style="border: none; margin-top: 1rem;">
 </iframe>
 
 <p>
-  If the embedded CV doesn't display, you can <a href="https://drive.google.com/file/d/1lZjfrElQqAdxpebXRayJbL5vWZirkFOZ/view" target="_blank" rel="noopener">view or download it here</a>.
+  If the embedded CV doesn't display, you can <a href="https://drive.google.com/file/d/1lZjfrElQqAdxpebXRayJbL5vWZirkFOZ/preview" target="_blank" rel="noopener">view or download it here</a>.
 </p>
 
