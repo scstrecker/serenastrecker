@@ -12,6 +12,6 @@ permalink: /cv/
 </iframe>
 
 <p>
-  If the embedded CV doesn't display, you can <a href="https://drive.google.com/file/d/19gG2_Jf9K7j2iu_6FyMaqrpg8rJ9poO2/preview" target="_blank" rel="noopener">view or download it here</a>.
+  If the embedded CV doesn't display, you can <a href="https://drive.google.com/file/d/1lZjfrElQqAdxpebXRayJbL5vWZirkFOZ/view?usp=sharing" target="_blank" rel="noopener">view or download it here</a>.
 </p>
 
